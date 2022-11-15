@@ -1,0 +1,993 @@
+[
+    {
+        "track_id": "venue-fabios-pizza",
+        "filters": [
+            "pizza",
+            "kosher",
+            "italian",
+            "kosher-for-passover",
+            "pasta"
+        ],
+        "image": "https://prod-wolt-venue-images-cdn.wolt.com/6072e121e6ece3e59e0da58d/f24354ac-a03b-11eb-a130-261a225b2daf_yaelitz_3.jpg",
+        "address": "שדרות דואני 20, יבנה",
+        "location": [
+            34.7397138,
+            31.8732141
+        ],
+        "name": "Fabios Pizza",
+        "city": "אזור יבנה",
+        "menu": [
+            {
+                "name": "לחמניות שום",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/ea0049a6-a03d-11eb-a3c4-6eb5ffebc01a________.jpeg"
+            },
+            {
+                "name": "פיצה אישית",
+                "description": "רוטב עגבניות וגבינה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/43090aa8-a03c-11eb-bce1-8e936ee83c64___________.jpeg"
+            },
+            {
+                "name": "פיצה משפחתית",
+                "description": "‫רוטב עגבניות וגבינה\n‫8 משולשים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/6541f31e-a03c-11eb-8b08-26376f54c419______________.jpeg"
+            },
+            {
+                "name": "פיצה אלפרדו אישית",
+                "description": "ברוטב שמנת, פטריות טריות וגבינת מוצרלה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "פיצה אלפרדו משפחתית",
+                "description": "ברוטב שמנת, פטריות טריות וגבינת מוצרלה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "לחמניות שום",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/ea0049a6-a03d-11eb-a3c4-6eb5ffebc01a________.jpeg"
+            },
+            {
+                "name": "מלאווח פיצה",
+                "description": "רוטב פיצה, מוצרלה ותוספת אחת לבחירה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/fcca1620-a03d-11eb-94a8-6e3dc09f8a37___________.jpeg"
+            },
+            {
+                "name": "מלאווח פתוח",
+                "description": "מוגש עם רסק עגבניות וביצה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/18a99e74-a03e-11eb-b4ec-8e13d5b94c43_______.jpeg"
+            },
+            {
+                "name": "רול לבחירה",
+                "description": "הרולים מוגשים עם רסק עגבניות",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/647ad020-a03e-11eb-9d5d-26376f54c419__________.jpeg"
+            },
+            {
+                "name": "טוסט פתוח בהרכבה",
+                "description": "רוטב לבחירה עם גבינת מוצרלה ושתי תוספות",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/9d44c0de-a03c-11eb-9f4f-4e7f663c5956________________.jpeg"
+            },
+            {
+                "name": "טוסט מוקרם",
+                "description": "רוטב שמנת, פטריות טריות, מוקרם בגבינת מוצרלה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "טוסט מוצרלה",
+                "description": "פסטו, עגבניות שרי ומוצרלה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "טוסט יווני",
+                "description": "גבינת שמנת, בולגרית, בצל סגול, גבינת מוצרלה וזיתים שחורים",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "טוסט אנטיפסטי",
+                "description": "פסטו, פלפל קלוי, חציל קלוי, בטטה וגבינת מוצרלה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "פסטה בהרכבה אישית",
+                "description": "בחרו סוג פסטה רוטב",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/b81844f8-a03c-11eb-8c06-0aa23ca3443b___________.jpeg"
+            },
+            {
+                "name": "סלט בולגרית",
+                "description": "חסה, עגבניות, מלפפון, פטריות טריות, תירס, גבינה בולגרית וזיתים ירוקים\nמוגש עם לחם ורטבים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/d619f472-a03e-11eb-913d-663f40870c3e____________.jpeg"
+            },
+            {
+                "name": "סלט יווני",
+                "description": "חסה, עגבניות, מלפפון, גבינה בולגרית, בצל סגול, זיתים שחורים, שמן זית וזעתר\nמוגש עם לחם ורטבים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/e84c96fe-a03e-11eb-a4de-6e495b50970d__________.jpeg"
+            },
+            {
+                "name": "סלט אנטיפסטי",
+                "description": "חסה, עגבניות, מלפפון, גבינה בולגרית, חציל קלוי, פלפל קלוי, קוביות בטטה וזיתים שחורים\nמוגש עם לחם ורטבים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/f74ec2b2-a03e-11eb-bf82-6e3dc09f8a37_____________.jpeg"
+            },
+            {
+                "name": "קדאיף",
+                "description": "קדאיף ישראלי מושלם",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/72f66924-a03f-11eb-ac6a-eaade13d8d12______.jpeg"
+            },
+            {
+                "name": "בוואריה",
+                "description": "קרם וניל מונח על ביסקוויט פריך",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/91d2cf22-a03f-11eb-a0df-6e3dc09f8a37________.jpeg"
+            },
+            {
+                "name": "מוס שוקולד",
+                "description": "קציפה קרמית משוקולד",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "סופלה שוקולד",
+                "description": "עוגת שוקולד חמה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "עוגת גבינה",
+                "description": "עוגת גבינה משובחת במיוחד",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "בננה לוטי",
+                "description": "בצק פריך במילוי שוקולד, חתיכות בננה ושברי אגוזים מסוכרים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/6072e1fa3442ef32f63cc3c4/4fba8800-a03f-11eb-8f40-82e832cfb935__________.jpeg"
+            },
+            {
+                "name": "קוקה קולה - פחית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/1a7063e8-42c7-11eb-9443-92ca09493036_coca_cola_can_330ml.jpeg"
+            },
+            {
+                "name": "פאנטה - פחית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/77103092-42c7-11eb-9443-92ca09493036_52272_wolt_8500x4800_sleek_can_orenge.jpeg"
+            },
+            {
+                "name": "ספרייט - פחית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/f22b5680-42c7-11eb-9073-3a87a4ff4ab7_53003_wolt_8500x4800_sprite_can_lime.jpeg"
+            },
+            {
+                "name": "ספרייט זירו - פחית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/036f73b8-42c8-11eb-afd4-92ca09493036_53003_wolt_8500x4800_sprite_can_zero.jpeg"
+            },
+            {
+                "name": "קינלי סודה",
+                "description": "0,25",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/ac1bbf46-42c6-11eb-afd4-92ca09493036_kinley_soda_250_ml.jpeg"
+            },
+            {
+                "name": "מים מינרליים נביעות",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/04221cae-48f2-11eb-8ee3-be66876af8fa________________.jpeg"
+            },
+            {
+                "name": "פיוז טי אפרסק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a9aba51c-42c8-11eb-9b40-3a87a4ff4ab7_ft_peach_500ml.jpeg"
+            },
+            {
+                "name": "קוקה קולה - בקבוק פלסטיק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/906e1954-f8e9-11eb-b582-467f67de554e_coca_cola_classic_500ml.jpeg"
+            },
+            {
+                "name": "קולה זירו - בקבוק פלסטיק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/96a47a02-f8e9-11eb-a39c-467f67de554e_coca_cola_zero_500ml.jpeg"
+            },
+            {
+                "name": "ספרייט - בקבוק פלסטיק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a88a8086-f8e9-11eb-9d85-c268f97193e5_53003_bottle_500ml_2020_wolt_1440x810.jpeg"
+            },
+            {
+                "name": "ספרייט זירו - בקבוק פלסטיק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/adfa99fc-f8e9-11eb-b582-467f67de554e_53003_bottle_500_lime_wolt_1440x810.jpeg"
+            },
+            {
+                "name": "פאנטה - בקבוק פלסטיק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/bac2d8ca-f8e9-11eb-a705-c268f97193e5_fanta_orange_500ml.jpeg"
+            },
+            {
+                "name": "קוקה קולה - גדול",
+                "description": "1,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/eed2797c-f8ee-11eb-b0d4-dee9e2704e20_______________.jpeg"
+            },
+            {
+                "name": "קולה זירו - גדול",
+                "description": "1,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/0291dd04-f8ef-11eb-ac5f-e242befbd933_______________.jpeg"
+            },
+            {
+                "name": "פיוזטי אפרסק - גדול",
+                "description": "1,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/d4250642-f8f0-11eb-9857-dee9e2704e20__________________.jpeg"
+            }
+        ]
+    },
+    {
+        "track_id": "venue-kuzina-yavne",
+        "filters": [
+            "kosher",
+            "salad",
+            "homemade",
+            "kosher-for-passover",
+            "sandwich"
+        ],
+        "image": "https://prod-wolt-venue-images-cdn.wolt.com/609a568ef322917d67c84d6d/316dd158-c1dd-11eb-b12d-7ebe37df90d4_____.jpg",
+        "address": "שד' דואני 58, יבנה",
+        "location": [
+            34.745391999999974,
+            31.868958099999926
+        ],
+        "name": "Kuzina | Yavne",
+        "city": "אזור יבנה",
+        "menu": [
+            {
+                "name": "ארוחת חלוקה",
+                "description": "‫5 פרנות לבחירה + צ׳יפס + תוספת נוספת לבחירה + בקבוק שתייה גדול",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/f6894796-0a1d-11ec-84aa-c6c875e390a2_830b2902_c1dd_11eb_a12f_0aeb11fe4f43___________.jpeg"
+            },
+            {
+                "name": "אקסטרה רטבים",
+                "description": "סט רטבים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/dfa81868-f621-11ec-9a4d-16903630eceb__________________.jpeg"
+            },
+            {
+                "name": "אסאדו בחלה",
+                "description": "אסאדו, קרם חציל, מטבוחה, מלפפון חמוץ ואיולי שיפקה לימון בחלת בית\nמוגש עם חמוצים, זיתים ורטבים בצד",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/c420cd38-f45b-11eb-9c26-f66b511ce0d3_____________________.jpeg"
+            },
+            {
+                "name": "המבורגר נתח קצבים",
+                "description": "בחרו את המרכיבים!\nניתן לשדרג לארוחה עם צ'יפס ושתיה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/c420cd38-f45b-11eb-9c26-f66b511ce0d3_____________________.jpeg"
+            },
+            {
+                "name": "מרגז",
+                "description": "מוגש בפיתה / פרנה / חלה עם סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/9484a0a0-c1dd-11eb-aea0-569192facfcd__________.jpeg"
+            },
+            {
+                "name": "שניצל",
+                "description": "מוגש בפיתה / פרנה / חלה עם סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/a9485360-c1dd-11eb-8a03-aa8413abfc64___________.jpeg"
+            },
+            {
+                "name": "קבב",
+                "description": "מוגש בפיתה / פרנה / חלה עם סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/795639ce-c1dd-11eb-b806-628f9f1b81bf_________.jpeg"
+            },
+            {
+                "name": "סטייק",
+                "description": "מוגש בפיתה / פרנה / חלה עם סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/d2a39008-c1dd-11eb-9fbd-ce575edf2efa___________.jpeg"
+            },
+            {
+                "name": "הצמחונית טבעונית שלנו",
+                "description": "כרובית מצופה מטוגנת בלחם פרינה עם מגוון התוספות שלנו. מוגש עם 3 רטבים, חמוצים וזיתים מרוקאים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/b5f2ab2e-f08a-11ec-8d6a-a662c9b5e25b__________________.jpeg"
+            },
+            {
+                "name": "קבב בצלחת",
+                "description": "מוגש עם תוספת, סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/02f27cba-c1de-11eb-85ad-aa8413abfc64_________.jpeg"
+            },
+            {
+                "name": "מרגז בצלחת",
+                "description": "מוגש עם תוספת, סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/1651f86c-c1de-11eb-938c-628f9f1b81bf__________.jpeg"
+            },
+            {
+                "name": "שניצל בצלחת",
+                "description": "מוגש עם תוספת, סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/204c8f76-c1de-11eb-b4c0-628f9f1b81bf___________.jpeg"
+            },
+            {
+                "name": "סטייק בצלחת",
+                "description": "מוגש עם תוספת, סלטים ורטבים לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/58daf792-c1de-11eb-80c3-b262fc6e63c4___________.jpeg"
+            },
+            {
+                "name": "תבשיל ביתי עם סלטים",
+                "description": "תבשיל ביתי לבחירה, סלטים לבחירה, חמוצים וזיתים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/72c5a566-0a1e-11ec-989c-c6c875e390a2_____________________.jpeg"
+            },
+            {
+                "name": "חומוס נקי",
+                "description": "מוגש עם רוטב חמוץ- חריף, שמן זית, גרגירי חומוס ו2 פיתות",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "צ׳יפס",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/7cf2e72a-c1de-11eb-b280-027046cb34c0______.jpeg"
+            },
+            {
+                "name": "צ׳יפס בטטה",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/85a9377a-c1de-11eb-8b11-de576ad110af___________.jpeg"
+            },
+            {
+                "name": "כרובית",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/8e19f732-c1de-11eb-b17f-1686d3f5d9d5_______.jpeg"
+            },
+            {
+                "name": "סיגר אלג׳רי",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/9a09c57c-c1de-11eb-ba8d-f2ee0e4ed942_____________.jpeg"
+            },
+            {
+                "name": "טבעות בצל",
+                "description": "",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/7cac476c-f08a-11ec-92be-ca5644f16e1f__________________.jpeg"
+            },
+            {
+                "name": "קרלסברג",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/06117c00-00e2-11ec-9fd0-fafc3070bc62_36669_carlsberg_bottle_330ml.jpeg?overlay=isr-softalcohol"
+            },
+            {
+                "name": "מוס שוקולד דואט",
+                "description": "",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/c420cd38-f45b-11eb-9c26-f66b511ce0d3_____________________.jpeg"
+            },
+            {
+                "name": "קוקה קולה - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/e6b51f6c-42c6-11eb-9073-3a87a4ff4ab7_coca_cola_350ml.jpeg"
+            },
+            {
+                "name": "קולה זירו - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/5246f32c-f8e8-11eb-a39c-467f67de554e_coca_cola_zero_350ml.jpeg"
+            },
+            {
+                "name": "בירה שחורה מאלטי",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a5eeeb30-013d-11ec-9381-1a44742205eb_______330.jpeg"
+            },
+            {
+                "name": "פיוז טי אפרסק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a9aba51c-42c8-11eb-9b40-3a87a4ff4ab7_ft_peach_500ml.jpeg"
+            },
+            {
+                "name": "תפוזים",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/f1350598-08cc-11ec-a3e2-4a92b7067021____________________.jpeg"
+            },
+            {
+                "name": "ענבים",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/609a5a3dff1eb35f8dd8ade4/f64f8d32-08cc-11ec-9cd8-0283832d9bb0___________________.jpeg"
+            },
+            {
+                "name": "פחית קוקה קולה",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/1a7063e8-42c7-11eb-9443-92ca09493036_coca_cola_can_330ml.jpeg"
+            },
+            {
+                "name": "פחית קולה זירו",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/2a6f2a68-42c7-11eb-9a37-92ca09493036_coca_cola_zero_can_330ml_.jpeg"
+            },
+            {
+                "name": "פחית פאנטה",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/77103092-42c7-11eb-9443-92ca09493036_52272_wolt_8500x4800_sleek_can_orenge.jpeg"
+            },
+            {
+                "name": "פחית ספרייט",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/f22b5680-42c7-11eb-9073-3a87a4ff4ab7_53003_wolt_8500x4800_sprite_can_lime.jpeg"
+            },
+            {
+                "name": "פחית ספרייט זירו",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/036f73b8-42c8-11eb-afd4-92ca09493036_53003_wolt_8500x4800_sprite_can_zero.jpeg"
+            },
+            {
+                "name": "מים בטעם אפרסק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/cea200e6-f8e9-11eb-9785-c268f97193e5_________________.jpeg"
+            },
+            {
+                "name": "מים בטעם תפוח",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/d3e74a84-f8e9-11eb-86bb-c268f97193e5________________.jpeg"
+            },
+            {
+                "name": "מים בטעם ענבים",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a76d9fa2-7104-11eb-98ae-9a20111454cb_______________.jpeg"
+            },
+            {
+                "name": "פריגת תות-בננה - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/2014ae2a-f8e9-11eb-a39c-467f67de554e_52887_labels_mashkal_2020_strawberry_banana_330ml_wolt_1440x810.jpeg"
+            },
+            {
+                "name": "פריגת לימונענע - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/10076978-f8e9-11eb-8809-467f67de554e_52887_labels_mashkal_2020_limonana_330ml_wolt_1440x810.jpeg"
+            }
+        ]
+    },
+    {
+        "track_id": "venue-cafe-lyon-yavne",
+        "filters": [
+            "cafe",
+            "kosher",
+            "salad",
+            "kosher-for-passover",
+            "sandwich",
+            "french"
+        ],
+        "image": "https://prod-wolt-venue-images-cdn.wolt.com/61e03f7fddfbaa581526dfa0/d95aa9ce-7487-11ec-baac-36e42dbd8481_51129996_5290_11ec_b96b_2273c7d15048_list4.jpg",
+        "address": "הנחשול 22, יבנה",
+        "location": [
+            34.7394643,
+            31.8630364
+        ],
+        "name": "Cafe lyon | Yavne",
+        "city": "אזור יבנה",
+        "menu": [
+            {
+                "name": "‫דיל דייט זוגי 💗",
+                "description": "שתי מנות ראשונות, סלט, פסטה וקינוח לבחירה",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "חלת שום",
+                "description": "חלה במילוי שום, מוצרלה ופרמזן\nמוגש בליווי סלסת עגבניות ושמנת",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "קראק פאי",
+                "description": "עוגה מתוקה עשויה מפירורי עוגיות שיבולת שועל מעורבבים בחמאה.\nמוגשת לצד גלידת וניל וקצפת",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "לחם הבית",
+                "description": "פוקאצ׳ה מבצק בעבודת יד בתנור אבן. מוגש עם פסטו, סלסת עגבניות, טחינה וממרח פלפלים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/74da8d16-5290-11ec-81b8-4a1d74c98959__________________.jpeg"
+            },
+            {
+                "name": "ציפס בטטה",
+                "description": "מוגש עם קטשופ ומיונז",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/7ff8dd4c-5290-11ec-ac89-62e6902438a6___________________.jpeg"
+            },
+            {
+                "name": "ציפס דק",
+                "description": "מוגש עם קטשופ ומיונז",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/91fc32c8-5290-11ec-adff-567d4623b432__________________.jpeg"
+            },
+            {
+                "name": "כדורי קריספי פטריות וגבינות",
+                "description": "כדורי ראגו פטריות וגבינות, עם סלט עלים ולבנה דרוזית בשמן דואה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/99806140-5290-11ec-bab9-924c1982f204_____________________________________.jpeg"
+            },
+            {
+                "name": "סיגר חלומי וכמהין",
+                "description": "סיגר בצק עלים ממולא בפטריות קצוצות, גרידת חלומי, שקדים, שום ובצל. מוגש עם סלט עלים, איולי אריסה ופסטו",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/a072c22c-5290-11ec-8787-92f2951e25c3__________________________.jpeg"
+            },
+            {
+                "name": "כרובית מטוגנת בציפוי פריך",
+                "description": "מוגש עם איולי אריסה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/a797d0ce-5290-11ec-b82f-7ac88d44c861__________________________________.jpeg"
+            },
+            {
+                "name": "חציל אבו גוש",
+                "description": "חציל שנשרף על אש גלויה, טחינה לבנה, גרגירי חומוס, ביצה קשה, אריסה וטאבולה. מוגש בליווי לחם פרנה",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "ברוסקטת עיזים",
+                "description": "פסטו בזיליקום, פלפל קלוי ומדליוני גבינת עיזים מוגש לצד סלט עלים",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "סלט פטה",
+                "description": "חסה, מלפפון, שרי, בצל סגול, זיתי קלמטה, פיתה זעתר, פלפלים בצבעים ופרוסות פטה בשמן ולימון",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/aedd25f0-5290-11ec-9b29-924c1982f204___________.jpeg"
+            },
+            {
+                "name": "סלט חלומי",
+                "description": "חסה, מלפפון, עגבניות שרי, בצל סגול, כרוב סגול, גזר, תערובת ג'עלה פיצוחים וקוביות חלומי בציפוי פריך. תיבול וינגרט שמגיע בצד",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/b64db700-5290-11ec-81a1-86ba05f37af3____________.jpeg"
+            },
+            {
+                "name": "סלט שמפניון",
+                "description": "חסה, מלפפון, שרי, בצל סגול, פלפלים קלויים, עגבניות מיובשות, זיתי קלמטה ומיני קטניות, פטריות טריות מוקפצות בחמאה, יין לבן, שום ועשבי תיבול. מתובל בויניגרט הדרים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/c05a3444-5290-11ec-8589-b271cd1081ed_______________.jpeg"
+            },
+            {
+                "name": "סלט קריספי בטטה",
+                "description": "חסה, מלפפון, עגבניה, בצל סגול, גזר ובולגרית, ניוקי מטוגן ובטטה קריספית, צ׳ילי מתוק מעל",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/c7cba1e0-5290-11ec-b968-1ee7772c4c1e__________________.jpeg"
+            },
+            {
+                "name": "סלט שוק",
+                "description": "מבחר ירקות טריים ישר מהשוק לצלחת, בתיבול שמן זית ולימון",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "כריך אומלט",
+                "description": "אומלט, גבינת שמנת, חסה, עגבניה ובצל סגול",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/e41f4176-5290-11ec-ab19-362fac333ea3______________.jpeg"
+            },
+            {
+                "name": "כריך סביח",
+                "description": "ביצה, חצילים, טחינה, עגבניה, מלפפון חמוץ ופסטו",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/2fa3cc20-5291-11ec-9b5f-3a09e4cf77ca____________.jpeg"
+            },
+            {
+                "name": "טוסט גבינה",
+                "description": "גבינה צהובה וזיתים ירוקים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/5d48171c-5291-11ec-a7a2-568eec089941_____________.jpeg"
+            },
+            {
+                "name": "טוסט ים תיכוני",
+                "description": "גבינה צהובה, בולגרית, חציל מטוגן ופסטו בזיליקום",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/87eb58bc-5291-11ec-bb30-7ac88d44c861_________________.jpeg"
+            },
+            {
+                "name": "טוסט ליון",
+                "description": "גבינה צהובה, פטריות ובצל מוקפצים בחמאה. עם ביצה קשה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/91be6fb4-5291-11ec-81f2-362fac333ea3_____________.jpeg"
+            },
+            {
+                "name": "קרואסון שמפיניון",
+                "description": "בצל ופטריות צרובים בחמאה וביצת עין מעל, מוגש בליווי סלט ירוק",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "קרואסון פלפלים",
+                "description": "פסטו פטרוזיליה ושקדים, פלפלים קלויים, פטה וזיתי קלמטה, מוגש בליווי סלט ירוק",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "פסטה אלפרדו",
+                "description": "פטריות טריות, שום ושמנת",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/9a3e319c-5291-11ec-b501-668762d3198c_________________.jpeg"
+            },
+            {
+                "name": "פסטה בטטה וערמונים",
+                "description": "שמנת בטטה קוביות,כמהין וערמונים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/a2a82a90-5291-11ec-85bf-76e0a5b5c5ec_______________________.jpeg"
+            },
+            {
+                "name": "‫פסטה נפוליטנה 🌶",
+                "description": "רוטב מעגבניות תמר, שום ובזיליקום",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/ad17625c-5291-11ec-a8fc-2efc910d6c6e___________________.jpeg"
+            },
+            {
+                "name": "פסטה רוזה",
+                "description": "רוטב שמנת ורוטב עגבניות",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/b51b536e-5291-11ec-b4f3-82855a70963e_______________.jpeg"
+            },
+            {
+                "name": "אלי- אוליו",
+                "description": "שמן זית, שום, שרי, זיתי קלמטה, עשבי תיבול ועגבניות מיובשות",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "רביולי גבינות | אלפרדו",
+                "description": "פטריות טריות, שום ושמנת",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/c4ca9590-5291-11ec-afce-16cdfa8931a8___________________________.jpeg"
+            },
+            {
+                "name": "רביולי גבינות | בטטה וערמונים",
+                "description": "שמנת בטטה קוביות, כמהין וערמונים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/cd875ba0-5291-11ec-8b51-720905410a9a_______________________________.jpeg"
+            },
+            {
+                "name": "רביולי גבינות | רוזה",
+                "description": "רוטב שמנת ורוטב עגבניות",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/d537cf92-5291-11ec-bd87-52570a4dade1_________________________.jpeg"
+            },
+            {
+                "name": "רביולי בטטה | אלפרדו",
+                "description": "פטריות טריות, שום ושמנת",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/e06ec000-5291-11ec-ac51-1ee7772c4c1e_________________________.jpeg"
+            },
+            {
+                "name": "רביולי בטטה | בטטה וערמונים",
+                "description": "שמנת, קוביות בטטה, כמהין וערמונים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/eef2f740-5291-11ec-9362-4ed4643fc805_______________________________.jpeg"
+            },
+            {
+                "name": "רביולי בטטה | רוזה",
+                "description": "רוטב שמנת ורוטב עגבניות",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/fa014bf0-5291-11ec-9843-568eec089941_______________________.jpeg"
+            },
+            {
+                "name": "תפוח אדמה מוקרם",
+                "description": "תפוח אדמה מבושל ברוטב שמנת פטריות, מוקרם עם גבינת גאודה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/06794798-5292-11ec-a837-9a77d406207e___________________.jpeg"
+            },
+            {
+                "name": "רביולי גבינות | שמנת",
+                "description": "רוטב שמנת עשיר",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/8a81e5ca-84a3-11ec-a773-c28b95001118_____________________.jpeg"
+            },
+            {
+                "name": "רביולי בטטה | שמנת",
+                "description": "רוטב שמנת עשיר",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/8a81e5ca-84a3-11ec-a773-c28b95001118_____________________.jpeg"
+            },
+            {
+                "name": "רביולי גבינות | נפוליטנה",
+                "description": "רוטב מעגבניות תמר, שום ובזיליקום",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/8a81e5ca-84a3-11ec-a773-c28b95001118_____________________.jpeg"
+            },
+            {
+                "name": "רביולי בטטה | נפוליטנה",
+                "description": "רוטב מעגבניות תמר, שום ובזיליקום",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/8a81e5ca-84a3-11ec-a773-c28b95001118_____________________.jpeg"
+            },
+            {
+                "name": "פיצה גינה",
+                "description": "ממרח פסטו בזיליקום, שרי, רוקט, פלפלים קלויים, עגבניות מיובשות וקוביות חציל",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "שקשוקה טבעונית",
+                "description": "רוטב שקשוקה מעגבניות טריות, בטטה, חצילים ועשבי תיבול. מוגש בליווי טחינה, אריסה ולחם לבחירה",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "סלט שמפיניון טבעוני",
+                "description": "חסה, מלפפון, עגבניות שרי, בצל סגול, פלפלים קלויים, עגבניות מיובשות וזיתי קלמטה. מתובל בויניגרט הדרים, מיני קטניות ופטריות טריות מוקפצות עם שום ועשבי תיבול. מוגש עם לחם לבחירה",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "סלט טאבולה אסלי",
+                "description": "בורגול ועדשים בעשבי תיבול בליווי עגבניה ומלפפון קצוצים דק, חסה, גרגירי חומוס, שקדים וטחינה, מתובל בשמן זית לימון ומוגש לצד לחם לבחירה",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "שקשוקה ים תיכונית",
+                "description": "רוטב שקשוקה ביתי מעגבניות טריות עם שתי ביצים, מוגש עם לחם וסלט לבחירה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/2b966966-5292-11ec-bccb-567d4623b432__________________________.jpeg"
+            },
+            {
+                "name": "פילה לברק",
+                "description": "מוגש עם סלט לבחירה, לחם ותוספת חמה לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/a9a8da46-7871-11ec-b3c2-22a87e363040_____________________.jpeg"
+            },
+            {
+                "name": "פיצה מרגריטה",
+                "description": "פיצה איטלקית בתנור אבן",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/36f7b508-5292-11ec-a476-6acbc90789dc_______________.jpeg"
+            },
+            {
+                "name": "צלוחית חלומי",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "צלוחית פטריות חמות",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "צלוחית אבוקדו טרי",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "סלט ירוק",
+                "description": "חסה, מלפפון, גזר, בצל, ג׳עלה וויניגרט",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "סלט קצוץ",
+                "description": "מלפפון, עגבניה ובצל",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "לחם לבן",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "לחמניה",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "צלוחית בטטה",
+                "description": "",
+                "vegan": true,
+                "image": null
+            },
+            {
+                "name": "פיצה ילדים",
+                "description": "פיצה אפויה בתנור אבן",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/4aa53d46-5292-11ec-9ce8-4e9bd12e6e0d_________________.jpeg"
+            },
+            {
+                "name": "פסטה'לה הנסיך הקטן",
+                "description": "פסטה פנה ברוטב לבחירה",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/53e58a32-5292-11ec-8b9e-daa0138991c6__________________________.jpeg"
+            },
+            {
+                "name": "פטיט טוסט",
+                "description": "טוסט בלחם לבן, גבינה צהובה וירקות חתוכים בצד",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/5efa6da2-5292-11ec-8cba-62c747eba899_________________.jpeg"
+            },
+            {
+                "name": "פריברסט",
+                "description": "פחזנייה במילוי קרם מוסלין",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/7bcb85c4-5292-11ec-bee9-1659ad6458c1_________________.jpeg"
+            },
+            {
+                "name": "לוטוס",
+                "description": "בוואריית שוקולד לבן קרימי לוטוס, בציפוי לוטוס ואגוזים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/867bc09c-5292-11ec-aaca-7a0d101d43a4______________.jpeg"
+            },
+            {
+                "name": "אוסקר",
+                "description": "מוס שוקולד עשיר, קרם וניל בציפוי גנאש",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/999184aa-5292-11ec-ab8f-76e0a5b5c5ec______________.jpeg"
+            },
+            {
+                "name": "אקלר וניל",
+                "description": "פחזנייה במילוי קריספי נוגט וקרם וניל",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/a1f40b0e-5292-11ec-b500-cec11363f78f__________________.jpeg"
+            },
+            {
+                "name": "אקלר קפה",
+                "description": "פחזניה במילוי פניני קראנצ' שוקולד וקרם קפה",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/b002ec74-5292-11ec-836f-0259b1fde419_________________.jpeg"
+            },
+            {
+                "name": "פאי תפוחים",
+                "description": "קלתית סבלה, קרם שקדים תפוחים מקורמלים ושטרוייזל שקדים *ניתן להזמין פאי ללא סוכר*",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/c8bf7bd8-5292-11ec-a093-82855a70963e___________________.jpeg"
+            },
+            {
+                "name": "גבינה אפויה",
+                "description": "תחתית סבלה, קרם גבינה אפויה ושטרויזל שקדים",
+                "vegan": false,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61e0414e3e307f000c9d09b4/c63c80fe-7871-11ec-a899-36dd82124931_____________________.jpeg"
+            },
+            {
+                "name": "פס עוקץ הדבורה",
+                "description": "שכבות גנאש וניל, קרם מוסלין ושקדים מקורמלים",
+                "vegan": true,
+                "image": "https://wolt-menu-images-cdn.wolt.com/menu-images/61a37a61a6c85299e42c8702/ebcbfd68-5292-11ec-ad2f-062d69f63f81_____________________.jpeg"
+            },
+            {
+                "name": "טריקולד",
+                "description": "שלוש שכבות של מוס שוקולד עשיר מריר, חלב ולבן",
+                "vegan": false,
+                "image": null
+            },
+            {
+                "name": "קינלי סודה",
+                "description": "0,25",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/440d3d98-f8e8-11eb-86bb-c268f97193e5_kinley_soda_250_ml.jpeg"
+            },
+            {
+                "name": "קוקה קולה - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/e6b51f6c-42c6-11eb-9073-3a87a4ff4ab7_coca_cola_350ml.jpeg"
+            },
+            {
+                "name": "קולה זירו - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/5246f32c-f8e8-11eb-a39c-467f67de554e_coca_cola_zero_350ml.jpeg"
+            },
+            {
+                "name": "ספרייט - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/70e69d6e-f8e8-11eb-9c11-467f67de554e_53003_wolt_1440x810_sprite_350ml.jpeg"
+            },
+            {
+                "name": "ספרייט זירו - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/21b9eefc-42c8-11eb-b9c3-92ca09493036_53003_wolt_8500x4800_sprite_350ml_zero.jpeg"
+            },
+            {
+                "name": "פאנטה - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/77206b60-f8e8-11eb-90db-467f67de554e______________.jpeg"
+            },
+            {
+                "name": "פיוז טי אפרסק - בקבוק זכוכית",
+                "description": "0,33",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/7e5e60d0-f8e8-11eb-86bb-c268f97193e5_fuze_tea_peach_330_ml.jpeg"
+            },
+            {
+                "name": "מים מינרליים נביעות - בקבוק זכוכית",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/bbf8a5d6-095f-11ec-9abb-5208d3bf942b_______________________.jpeg"
+            },
+            {
+                "name": "מים בטעם אפרסק",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/cea200e6-f8e9-11eb-9785-c268f97193e5_________________.jpeg"
+            },
+            {
+                "name": "מים בטעם תפוח",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/d3e74a84-f8e9-11eb-86bb-c268f97193e5________________.jpeg"
+            },
+            {
+                "name": "מים בטעם ענבים",
+                "description": "0,5",
+                "vegan": true,
+                "image": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/5fbe3d6b40ccbfedccfd71a0/a76d9fa2-7104-11eb-98ae-9a20111454cb_______________.jpeg"
+            },
+            {
+                "name": "סיידר תפוחים צלול - בקבוק",
+                "description": "0,33",
+                "vegan": true,
+                "image": null
+            }
+        ]
+    }
+]
