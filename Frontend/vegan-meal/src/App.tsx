@@ -11,33 +11,45 @@ import { FilterByType } from "./Pages/Filter/FilterByType";
 import { Search } from "./Pages/Search/Search";
 import { SearchByRestaurant } from "./Pages/Search/SearchByRestaurant";
 import { SearchByDish } from "./Pages/Search/SearchByDish";
+import { RestaurantDetails } from "./Pages/RestaurantDetails";
+import { init } from "./Redux/restaurantsSlice";
+import { useAppDispatch } from "./Redux/hooks";
 
 function App() {
-  const [data, setData] = useState<Restaurant[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const dispatch = useAppDispatch();
 
   useEffect(() => {
     async function getData() {
       try {
         const response = await axios.get("http://localhost:8080/data");
-        setData(response.data);
-        console.log(response);
+        dispatch(init(response.data));
+        setIsLoading(false);
       } catch (error) {
         console.log(error);
       }
     }
     getData();
   }, []);
+
   return (
     <div className="App">
       <Layout>
         <Routes>
-          <Route path="/" element={<RestaurantsList data={data} />} />
+          <Route
+            path="/"
+            element={isLoading ? <div>loading...</div> : <RestaurantsList />}
+          />
           <Route path="/filter" element={<Filter />} />
           <Route path="/filter/location" element={<FilterByLocation />} />
           <Route path="/filter/types" element={<FilterByType />} />
           <Route path="/search" element={<Search />} />
           <Route path="/search/restaurant" element={<SearchByRestaurant />} />
           <Route path="/search/dish" element={<SearchByDish />} />
+          <Route
+            path="/restaurant-details/:index"
+            element={<RestaurantDetails />}
+          />
         </Routes>
       </Layout>
     </div>

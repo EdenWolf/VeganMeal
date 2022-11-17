@@ -1,29 +1,40 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Restaurant } from "../Types/Restaurant";
 import styled from "styled-components";
+import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+import { useAppSelector } from "../Redux/hooks";
 
 const PAGE_SIZE = 10;
 
-type Props = {
-  data: Restaurant[];
-};
+// type Props = {
+//   data: Restaurant[];
+// };
 
-export function RestaurantsList({ data }: Props) {
+export function RestaurantsList() {
   const [page, setPage] = useState<number>(0);
+  const data = useAppSelector((state) => {
+    return state.restaurants;
+  });
 
   return (
     <div>
       <Ul>
-        {data.slice(page, page + PAGE_SIZE).map((restaurant, index) => (
-          <Li key={index}>
-            <RestaurantButton onClick={() => console.log(restaurant.name)}>
-              <Container>
-                <Img src={restaurant.image} alt="Snow" />
-                <RestaurantName>{restaurant.name}</RestaurantName>
-              </Container>
-            </RestaurantButton>
-          </Li>
-        ))}
+        {data &&
+          data.length > 20 &&
+          data.slice(page, page + PAGE_SIZE).map((restaurant, index) => (
+            <Li key={index}>
+              <RestaurantButton
+                to={`/restaurant-details/${restaurant.track_id}`}
+                onClick={() => console.log(restaurant.name)}
+              >
+                <Container>
+                  <Img src={restaurant.image} alt="Snow" />
+                  <RestaurantName>{restaurant.name}</RestaurantName>
+                </Container>
+              </RestaurantButton>
+            </Li>
+          ))}
       </Ul>
       <ButtonsContainer>
         {page > 0 && (
@@ -35,19 +46,22 @@ export function RestaurantsList({ data }: Props) {
             Previous
           </PrevButtons>
         )}
-        <NextButtons
-          onClick={() => {
-            setPage(page + PAGE_SIZE);
-          }}
-        >
-          Next
-        </NextButtons>
+        {page < data.length - PAGE_SIZE + 1 && (
+          <NextButtons
+            onClick={() => {
+              setPage(page + PAGE_SIZE);
+            }}
+          >
+            Next
+          </NextButtons>
+        )}
       </ButtonsContainer>
     </div>
   );
 }
 
-const RestaurantButton = styled.button`
+const RestaurantButton = styled(Link)`
+  display: block;
   border: none;
   padding: 0;
   margin: 0;
@@ -69,7 +83,6 @@ const Container = styled.div`
 const Ul = styled.ul`
   padding: 0;
   margin: 0;
-  font-size: 0;
 `;
 
 const Li = styled.li`
@@ -85,6 +98,7 @@ const RestaurantName = styled.h1`
   transform: translate(-50%, -50%);
   z-index: 1;
   color: white;
+  margin: 0;
 `;
 
 const NextButtons = styled.button`
