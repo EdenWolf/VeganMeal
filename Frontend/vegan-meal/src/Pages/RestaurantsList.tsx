@@ -1,8 +1,6 @@
 import { useState } from "react";
-import { Restaurant } from "../Types/Restaurant";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { useSelector } from "react-redux";
 import { useAppSelector } from "../Redux/hooks";
 
 const PAGE_SIZE = 10;
@@ -13,9 +11,7 @@ const PAGE_SIZE = 10;
 
 export function RestaurantsList() {
   const [page, setPage] = useState<number>(0);
-  const data = useAppSelector((state) => {
-    return state.restaurants;
-  });
+  const data = useAppSelector((state) => state.restaurants.restaurants);
 
   return (
     <div>

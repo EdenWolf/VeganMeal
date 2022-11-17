@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import axios from "axios";
 import { RestaurantsList } from "./Pages/RestaurantsList";
-import { Restaurant } from "./Types/Restaurant";
 import { Layout } from "./Layout";
 import { Route, Routes } from "react-router-dom";
 import { Filter } from "./Pages/Filter/Filter";
@@ -12,7 +11,7 @@ import { Search } from "./Pages/Search/Search";
 import { SearchByRestaurant } from "./Pages/Search/SearchByRestaurant";
 import { SearchByDish } from "./Pages/Search/SearchByDish";
 import { RestaurantDetails } from "./Pages/RestaurantDetails";
-import { init } from "./Redux/restaurantsSlice";
+import { initRestaurants } from "./Redux/restaurantsSlice";
 import { useAppDispatch } from "./Redux/hooks";
 
 function App() {
@@ -23,7 +22,7 @@ function App() {
     async function getData() {
       try {
         const response = await axios.get("http://localhost:8080/data");
-        dispatch(init(response.data));
+        dispatch(initRestaurants(response.data));
         setIsLoading(false);
       } catch (error) {
         console.log(error);
