@@ -22,12 +22,8 @@ http
       response.write(JSON.stringify(dataArray));
       response.end(); //end the response
     } else {
-      console.log("method: " + request.method);
-      console.log("url: " + request.url);
       response.statusCode = 404;
       response.end();
     }
   })
   .listen(8080);
-
-console.log("Node.js web server at port 8080 is running..");

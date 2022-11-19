@@ -6,7 +6,6 @@ function addPricaRanges() {
   // high = 50+
   const file = fs.readFileSync(`../JSON Files/calculatedWordsData.json`);
   const data = JSON.parse(file);
-  //   console.log(data);
 
   const lowPrices = ["0 - 10", "10 - 20", "20 - 30"];
   const mediumPrices = ["30 - 40", "40 - 50"];
