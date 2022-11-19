@@ -5,13 +5,9 @@ import { useAppSelector } from "../Redux/hooks";
 
 const PAGE_SIZE = 10;
 
-// type Props = {
-//   data: Restaurant[];
-// };
-
 export function RestaurantsList() {
   const [page, setPage] = useState<number>(0);
-  const data = useAppSelector((state) => state.restaurants.restaurants);
+  const data = useAppSelector((state) => state.restaurants.restaurantsArray);
 
   return (
     <div>

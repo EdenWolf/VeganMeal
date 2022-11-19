@@ -46,7 +46,7 @@ function App() {
           <Route path="/search/restaurant" element={<SearchByRestaurant />} />
           <Route path="/search/dish" element={<SearchByDish />} />
           <Route
-            path="/restaurant-details/:index"
+            path="/restaurant-details/:id"
             element={<RestaurantDetails />}
           />
         </Routes>

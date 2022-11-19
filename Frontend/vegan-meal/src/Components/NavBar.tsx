@@ -68,7 +68,7 @@ const NavLink = styled(Link)`
   color: white;
   width: 100%;
   height: 100%;
-  padding: 12px 16px;
+  padding: 12px 0;
   text-decoration: none;
   text-align: center;
   vertical-align: middle;
